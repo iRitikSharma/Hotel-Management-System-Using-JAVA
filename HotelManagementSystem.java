@@ -25,7 +25,7 @@ public class HotelManagementSystem {
             System.out.println("2. Check-OUT");
             System.out.println("3. View Occupancy");
             System.out.println("4. Exit");
-            System.out.println("Enter Your Choice");
+            System.out.println("Enter Your Choice :");
 
             int choice = sc.nextInt();
 
